@@ -1,0 +1,12 @@
+{
+    "name": "usabilitydynamics/linux-dash",
+    "authors": [
+        {
+            "name": "Andy Potanin",
+            "email": "andy@udx.io"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "0.3.*"
+    }
+}
