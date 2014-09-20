@@ -1,0 +1,18 @@
+{
+  "name": "linux-dash",
+  "version": "0.5.1",
+  "description": "Um painel de monitorização com baixa sobrecarga para máquinas GNU/Linux. Basta colocar no servidor e utilizar!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/UsabilityDynamics/linux-dash.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/UsabilityDynamics/linux-dash/issues"
+  }
+}
